@@ -7,6 +7,8 @@ echo "Installing software..."
 flatpak install -y flathub com.google.Chrome
 flatpak install -y flathub org.mozilla.firefox
 flatpak install -y flathub org.videolan.VLC
+flatpak install -y flathub com.valvesoftware.Steam
+flatpak install -y flathub com.discordapp.Discord
 
 # Apply configurations
 echo "Configuring Libre Office..."
